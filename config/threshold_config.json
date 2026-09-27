@@ -1,0 +1,10 @@
+{
+  "shredder": {
+    "max_vibration_mm_s": 7.5,
+    "max_motor_temp_celsius": 85.0
+  },
+  "furnace": {
+    "optimal_melting_temp_celsius": 1200.0,
+    "max_safe_temp_celsius": 1500.0
+  }
+}
